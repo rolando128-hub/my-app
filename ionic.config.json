@@ -1,0 +1,7 @@
+{
+  "name": "rolando-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
